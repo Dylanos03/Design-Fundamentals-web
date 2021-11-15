@@ -1,0 +1,48 @@
+header {
+    background-color: aqua;
+    padding: 10px 0px 10x 0px;
+}
+
+body {
+    background-color: white;
+}
+
+h1 {
+    font-family: cy,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.navigation-area {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+button {
+    border: 0px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    padding: 10px;
+    margin: 2px;
+    transition-duration: .4s;
+    background-color: aqua;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+button:active {
+    background-color: blue;
+    color: white;
+}
