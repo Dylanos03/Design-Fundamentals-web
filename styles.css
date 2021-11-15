@@ -1,6 +1,6 @@
 header {
     background-color: aqua;
-    padding: 10px 0px 10x 0px;
+    padding: 20px 10px 20x 10px;
 }
 
 body {
@@ -12,6 +12,7 @@ h1 {
     font-weight: 600;
     font-style: normal;
     text-align: center;
+    font-size: 45px;
 }
 
 ul {
