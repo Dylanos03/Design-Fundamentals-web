@@ -47,3 +47,9 @@ button:active {
     background-color: blue;
     color: white;
 }
+
+.opening-paragraph {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: 200;
+}
