@@ -51,9 +51,15 @@ button:active {
 .opening-paragraph {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    font-weight: 200;
+    font-weight: 300;
 }
 
 .CarpTask {
     height: 700px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-weight: 200;
 }
