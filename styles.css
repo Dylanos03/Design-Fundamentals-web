@@ -72,3 +72,12 @@ h1 {
     flex-wrap: wrap;
     justify-content: space-evenly;
 }
+
+.TrueFalse2{
+    width: 25%;
+}
+
+.TFRef2 {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
