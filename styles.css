@@ -83,3 +83,13 @@ h1 {
     justify-content: space-evenly;
     padding: 6px 2px 2px 8px;
 }
+
+.TFRef3 {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 6px 2px 2px 8px;
+}
+
+.TrueFalse3{
+    width: 50%;
+}
