@@ -70,4 +70,5 @@ h1 {
 
 .TFRef1 {
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
