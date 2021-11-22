@@ -51,5 +51,45 @@ button:active {
 .opening-paragraph {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    font-weight: 300;
+}
+
+.CarpTask {
+    height: 700px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
     font-weight: 200;
+}
+
+.TrueFalse1 {
+    width: 25%;
+}
+
+.TFRef1 {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 6px 2px 2px 8px;
+}
+
+.TrueFalse2{
+    width: 50%;
+}
+
+.TFRef2 {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 6px 2px 2px 8px;
+}
+
+.TFRef3 {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 6px 2px 2px 8px;
+}
+
+.TrueFalse3{
+    width: 50%;
 }
