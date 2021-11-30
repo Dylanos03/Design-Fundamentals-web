@@ -93,3 +93,14 @@ h1 {
 .TrueFalse3{
     width: 50%;
 }
+
+.TypeRow {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.axial {
+    block-size: 200px 200px;
+}
