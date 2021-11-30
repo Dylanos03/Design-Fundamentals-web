@@ -97,7 +97,14 @@ h1 {
 .TypeRow {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
     justify-content: space-evenly;
 }
 
+.axial {
+    height: 300px;
+    flex: 1 1 auto;
+}
+.Bilateral {
+    height: 300px;
+    flex: 1 1 auto;
+}
