@@ -94,6 +94,10 @@ h1 {
     width: 50%;
 }
 
+.TypeSection {
+    background-color: white;
+}
+
 .TypeRow {
     display: flex;
 }
@@ -105,6 +109,8 @@ h1 {
     flex: 1 1 auto;
 }
 .Bilateral {
+
+    background-color: white;
     height: 300px;
     flex: 1 1 auto;
 }
