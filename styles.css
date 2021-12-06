@@ -99,7 +99,7 @@ h1 {
 }
 
 .TypeRow {
-    display: flex;
+    display: grid;
 }
 
 .axial {
