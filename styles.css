@@ -56,7 +56,7 @@ button:active {
 
 .CarpTask {
     height: 700px;
-    align-items: center;
+    align-content: center;
 }
 
 h1 {
@@ -67,6 +67,7 @@ h1 {
 
 .TrueFalse1 {
     width: 25%;
+    
 }
 
 .TFRef1 {
