@@ -66,7 +66,7 @@ h1 {
 
 .TrueFalse1 {
     width: 25%;
-    align-items: center;
+    align-content: center;
 }
 
 .TFRef1 {
@@ -101,17 +101,18 @@ h1 {
 
 .TypeRow {
     display: grid;
+    grid-gap: 30px;
 }
 
-.axial {
+.row1 {
 
-    background-color: white;
-    height: 300px;
-    flex: 1 1 auto;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
 }
 .Bilateral {
-
-    background-color: white;
-    height: 300px;
-    flex: 1 1 auto;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
 }
