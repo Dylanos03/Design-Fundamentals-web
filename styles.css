@@ -110,9 +110,6 @@ h1 {
     grid-row-start: 1;
     grid-row-end: 2;
 }
-.Bilateral {
-    grid-column-start: 2;
-    grid-column-end: 4;
-    grid-row-start: 2;
-    grid-row-end: 3;
+.bilateral {
+    align-self: center;
 }
